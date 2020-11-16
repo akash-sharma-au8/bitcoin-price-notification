@@ -1,1 +1,1 @@
-# bitcoin-price-notification
+# Bitcoin-Price-Notification
