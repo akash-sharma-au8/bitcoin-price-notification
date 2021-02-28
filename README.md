@@ -11,7 +11,7 @@ As we all know, Crypto Currency price is a fickle thing. You never really know w
 ## Download
 ```
 Download the file from the following link :-
-https://github.com/project-akash-sharma-au8.git
+https://github.com/akash-sharma-au8/bitcoin-price-notification
 
 (click on the "code" button on your right where you can clone or download ZIP)
 ```
